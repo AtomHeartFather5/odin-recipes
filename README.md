@@ -1,0 +1,1 @@
+This project is for practicing HTML and CSS. I'll include both images and other attributres that i have learned along with other ones that i'm going to learn with the odin project. 
